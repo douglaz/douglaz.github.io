@@ -1,5 +1,5 @@
 ---
-title: "Argentina abolished rent price controls in late 2023; Buenos Aires listings more than doubled in six months"
+title: "Argentina's Late-2023 Rent Decontrol Doubled Buenos Aires Listings"
 source: ""
 type: news
 ingested: 2026-05-17
@@ -8,5 +8,7 @@ platform: cli
 tags: [argentina, rent-control, price-control, housing-policy, austrian-economics]
 summary: "Argentina abolished rent price controls in late 2023; Buenos Aires rental listings more than doubled within six months and real rents fell as supply expanded."
 ---
+
+# Argentina's Late-2023 Rent Decontrol Doubled Buenos Aires Listings
 
 Argentina abolished rent price controls in late 2023. Rental listings in Buenos Aires more than doubled in the first six months and real rents fell as supply expanded.

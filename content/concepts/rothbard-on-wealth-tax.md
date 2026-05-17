@@ -2,33 +2,47 @@
 title: "Rothbard on the Wealth Tax"
 volatility: warm
 category: concept
-type: concept
 created: 2026-05-17
 updated: 2026-05-17
-tags: [rothbard, wealth-tax, taxation, capital-consumption, accumulated-capital, power-and-market, austrian-economics]
-aliases: [Rothbard on tax on individual wealth, Rothbard wealth tax, tax on individual wealth, wealth tax incidence]
-short: "Rothbard's treatment of a tax on individual wealth in Power and Market ch. 4 as a pure tax on accumulated capital — uncapitalizable, unshiftable, and the quickest route to capital consumption."
-confidence: medium
+tags: [rothbard, wealth-tax, taxation, capital-consumption, power-and-market, austrian-economics]
+aliases: [Rothbard on wealth tax, tax on individual wealth, Power and Market wealth tax, uncapitalizable wealth tax]
+short: "Rothbard's Power and Market §C 'A Tax on Individual Wealth' treats a wealth tax as an uncapitalizable, unshiftable charge that falls directly on accumulated capital and accelerates capital consumption."
 ---
 
 # Rothbard on the Wealth Tax
 
-> "A tax on individual wealth could not be capitalized, since the tax would not be attached to a property, where it could be discounted by the market. Like an individual income tax, it could not be *shifted*, although it would have important *effects*. Since the tax would be paid out of regular income, it would have the effect of an income tax in reducing private funds and penalizing savings-investment; but it would also have the *further* effect of taxing accumulated capital… No quicker route could be found to promote capital consumption and general impoverishment than to penalize the accumulation of capital."
-> — [[power-and-market|Rothbard, Power and Market]], ch. 4 §C ("A Tax on Individual Wealth")
+> [[power-and-market|Rothbard]] Ch. 4 §4.C, "A Tax on Individual Wealth," treats a tax levied on an individual's total net worth as a different case from the general property tax. Because the tax is attached to the person and not to a specific asset, the market cannot discount it into the asset's price; the tax cannot be *capitalized*. Because the tax is paid out of regular income, it cannot be *shifted* either. What remains is the direct effect: a charge on accumulated capital that operates in addition to whatever income-tax-like effect it has on saving.
 
-Rothbard treats a tax on individual wealth as a distinct sub-case under binary intervention — not a property tax, not an income tax, but a *pure tax on capital*. Two analytic features set it apart in his treatment. First, it cannot be capitalized: because the tax attaches to a person rather than to a particular asset, the market has no asset price to discount the future-tax liability into, and so cannot cushion the initial blow the way it does for a property tax (where the original owner bears the full discounted future stream and later owners earn the ordinary rate of return). Second, it cannot be shifted forward to consumers; like the [[sales-tax-incidence|general sales tax incidence]] Rothbard analyzes in the sister section, the burden rests on the person taxed, not on the price of any product they sell. The combined consequence is that the wealth tax operates simultaneously as an income tax (paid out of current earnings) and as a capital tax (forcing asset sales for those whose income does not cover the liability) — Rothbard's two-individual example contrasts Smith, who pays the levy from a $50,000 income, with Robinson, who has only $1,000 in income and must *"pay the tax by selling his assets, thereby reducing his accumulated wealth."*
+## The Passage
 
-The normative-economic claim is the second-order one: a wealth tax does what a property tax does *plus* what an income tax does, then adds a third effect that distinguishes it from both — a direct charge on the *stock* of accumulated capital, not just on its flow. In Rothbard's accounting, "**accumulated capital… is our heritage from the past; it is the accumulation of tools and equipment and resources from which our present and future standard of living derive. To tax this capital is to reduce the stock of capital, especially to discourage replacements as well as new accumulations, and to impoverish society in the future.**" The argument does not rely on a Laffer-style behavioral claim about avoidance; it is a praxeological claim about what *type* of magnitude the tax falls on. The wealth-tax structure converges with the Misesian description Mises advances in [[mises-on-capital-consumption|Mises on Capital Consumption]] in [[liberalism|Liberalism]]: a present-oriented policy that finances current consumption by drawing down the inherited capital stock.
+> "A tax on individual wealth could not be capitalized, since the tax would not be attached to a property, where it could be discounted by the market. Like an individual income tax, it could not be *shifted*, although it would have important *effects*. Since the tax would be paid out of regular income, it would have the effect of an income tax in reducing private funds and penalizing savings-investment; but it would also have the *further* effect of taxing accumulated capital."
+
+The categorical conclusion follows immediately in the same section:
+
+> "It is clear that the wealth tax levies a heavy penalty on accumulated wealth and that therefore the effect of the tax will be to slash accumulated capital. No quicker route could be found to promote capital consumption and general impoverishment than to penalize the accumulation of capital. Only our heritage of accumulated capital differentiates our civilization and living standards from those of primitive man, and a tax on wealth would speedily work to eliminate this difference. The fact that a wealth tax could not be capitalized means that the market could not, as in the case of the property tax, reduce and cushion its effect after the impact of the initial blow."
+
+## Why the Distinction Matters
+
+Rothbard's general taxation argument in [[power-and-market|Power and Market]] and [[man-economy-and-state|Man, Economy, and State]] is that the merchant or property owner cannot simply add a tax onto price and pass the burden forward — incidence falls back onto original-factor incomes. The wealth-tax case is the limiting form of that argument. The tax is denominated in net worth rather than in revenue or in a specific asset, so the two cushions the market normally supplies — capitalization (asset price falls until the after-tax return matches market interest) and forward shifting (price rises to absorb the burden) — are both unavailable. The Smith/Robinson illustration in the same section makes the operative mechanism concrete: the wealth taxpayer with no spare income must sell assets to meet the bill, and even the wealth taxpayer with high income has the incentive to *reduce* recorded wealth to lower future liability.
+
+## Relation to the Wider Typology
+
+The wealth tax sits inside Ch. 2's *autistic / binary / triangular* intervention typology as a binary intervention — the State imposes a direct charge on the holder — rather than as a triangular price control on an exchange. Functionally, however, its effect is closer to a [[state-power-and-intervention|cumulative]] erosion of the capital structure than to a one-period revenue grab: the tax recurs annually, each year's incidence reduces the base, and the discount the market cannot apply at impact accrues instead as straight extraction.
+
+## Relation to Mises
+
+Mises in [[liberalism|Liberalism]] names the policy class technically — see [[mises-on-capital-consumption|Mises on Capital Consumption]] — calling antiliberal policy "a policy of capital consumption" that recommends provisioning the present at the expense of the future. Rothbard's wealth-tax section is the microeconomic derivation of the same point: the *mechanism* by which capital is consumed is the recurring uncapitalizable, unshiftable charge on accumulated wealth.
 
 ## See Also
 
-- [[mises-on-capital-consumption|Mises on Capital Consumption]] — sister focused article on the Misesian description of antiliberal policy as capital consumption
-- [[sales-tax-incidence|Sales Tax Incidence]] — sister focused article on the unshiftability result Rothbard applies to taxes more generally
-- [[state-power-and-intervention|State Power and Intervention]] — broader concept on intervention; the wealth tax sits inside the binary-intervention/taxation subtree
-- [[power-and-market|Power and Market]] — primary source for ch. 4's incidence-and-effects-of-taxation chapter
-- [[murray-n-rothbard|Murray N. Rothbard]] — author reference
-- [[political-means-and-economic-means|Political Means and Economic Means]] — the Oppenheimer distinction the tax instantiates as political means substituted for the economic means of voluntary saving
+- [[sales-tax-incidence|Sales Tax Incidence]] - sister focused article on the general sales-tax incidence case that establishes Rothbard's "no tax can be shifted forward" frame
+- [[rothbard-on-price-controls|Rothbard on Price Controls]] - sister focused article on the triangular-intervention branch of the same typology
+- [[mises-on-capital-consumption|Mises on Capital Consumption]] - companion focused article on the Misesian naming of antiliberal policy as capital consumption
+- [[state-power-and-intervention|State Power and Intervention]] - intervention-as-cumulative-process article this passage fits inside
+- [[political-means-and-economic-means|Political Means and Economic Means]] - Oppenheimer's distinction grounding the wealth tax as an instance of the political means
+- [[power-and-market|Power and Market]] - source book
+- [[murray-n-rothbard|Murray N. Rothbard]] - author reference
 
 ## Sources
 
-- [Power and Market: Government and the Economy (Full Text Aggregate)](https://mises.org/online-book/power-and-market-government-and-economy) — ch. 4 §C "A Tax on Individual Wealth": the no-capitalization result, the no-forward-shifting result, the Smith/Robinson illustration, and the "no quicker route … to promote capital consumption" formulation
+- [Power and Market: Government and the Economy (Full Text Aggregate)](https://mises.org/online-book/power-and-market-government-and-economy) - Ch. 4 §4.C "A Tax on Individual Wealth" — the uncapitalizable/unshiftable claim, the Smith/Robinson illustration, and the "no quicker route to capital consumption" line

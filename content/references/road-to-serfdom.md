@@ -45,6 +45,7 @@ This book is the popular front of Hayek's critique of central planning. Its theo
 - [[libertarianism|Libertarianism]] - broader topic context
 - [[argentina-rent-decontrol-2023|Argentina's 2023 Rent Decontrol: An Analysis]] - thesis using the same logic to read the post-repeal supply response
 - [[2026-05-16-fed-may-2026-rate-cut-abct|The May 2026 Fed Rate Cut: ABCT Analysis]] - thesis applying Hayek's political logic to a central-bank rate decision
+- [[hayek-on-rule-of-law|Hayek on the Rule of Law]] - focused author-on-topic article drawn from the "Planning vs. the Rule of Law" chapter
 - [[2026-05-16-digital-euro-launch-cbdc-total-intervention|The Digital Euro Launch as CBDC Total Intervention: Analysis]] - thesis applying Hayek's rule-of-law constraint to unilaterally programmable central-bank money
 
 ## Sources

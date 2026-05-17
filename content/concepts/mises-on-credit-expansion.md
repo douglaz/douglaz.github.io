@@ -2,33 +2,31 @@
 title: "Mises on Credit Expansion"
 volatility: warm
 category: concept
-type: concept
 created: 2026-05-17
 updated: 2026-05-17
-tags: [mises, credit-expansion, austrian-business-cycle-theory, interest-rate, gross-market-rate, monetary-policy]
-aliases: [Mises on circulation credit, Mises on the gross market rate, Misesian credit-expansion mechanism]
-short: "Mises's claim in Human Action that credit expansion pushes the gross market rate of interest below the rate that originary interest plus the price premium would sustain, falsifying entrepreneurial calculation and producing the boom."
-confidence: medium
+tags: [mises, credit-expansion, abct, gross-market-rate, originary-interest, austrian-economics, business-cycle]
+aliases: [Mises on credit expansion, Mises gross market rate, Mises on the boom]
+short: "Mises's Human Action Ch. XX argument that credit expansion drops the gross market rate of interest below the originary rate, falsifies entrepreneurial calculation, and starts a boom that cannot last."
 ---
 
 # Mises on Credit Expansion
 
-> "[T]he gross market rate continues to lag behind the height at which it would cover both originary interest plus the positive price premium. … [T]he drop in interest rates falsifies the businessman's calculation. Although the amount of capital goods available did not increase, the calculation employs figures which would be utilizable only if such an increase had taken place."
-> — [[human-action|Mises, Human Action]], Ch. XX "Interest, Credit Expansion, and the Trade Cycle," pp. 549–550
+> "But now the drop in interest rates falsifies the businessman's calculation. Although the amount of capital goods available did not increase, the calculation employs figures which would be utilizable only if such an increase had taken place. The result of such calculations is therefore misleading. They make some projects appear profitable and realizable which a correct calculation, based on an interest rate not manipulated by credit expansion, would have shown as unrealizable. Entrepreneurs embark upon the execution of such projects. Business activities are stimulated. A boom begins."
 
-Mises distinguishes the *gross market rate* of interest (the rate actually contracted on the loan market) from the *rate of originary interest* (the rate that reflects time preference — the discount of future goods against present goods). In the unhampered case the two converge: the gross rate adds an entrepreneurial component and, under monetary disturbance, a price premium, but it tracks the underlying originary rate. Credit expansion through fiduciary media breaks the convergence. The new loanable funds are not the consequence of voluntary saving; the public's time preference has not fallen; but the gross market rate drops because the additional supply is met by lenders willing to lend at lower rates.
+[[human-action|Mises]] Ch. XX §6 treats credit expansion as the displacement of the *gross market rate of interest* from the *originary rate* set by time preference. Additional fiduciary media arriving on the loan market force the gross rate down at first; later in the expansion the rate may rise in nominal terms, but it remains too low to cover both originary interest and the price premium the expansion itself produces. Mises is explicit that arithmetical level is no diagnostic: "Gross market rates of interest rise in the further course of every expansion, but they are nonetheless low as they do not correspond to the height required by the expected further general rise in prices." A "low" rate is whatever lies below the rate the market would set on actual savings — not whatever lies below last year's rate.
 
-The mechanism is not psychological. The lower gross rate alters the figures in the entrepreneur's calculation. Projects whose net present value was previously negative now show positive — not because the underlying real conditions changed, but because the discount rate falsifies them. Mises is explicit that this is not a benign stimulus: it is a coordination failure. Entrepreneurs commit real resources to long-horizon, capital-intensive structures of production that the actual stock of savings cannot complete. The unwinding is the bust, which Mises in [[human-action|Human Action]] calls "the necessary outcome of policies directed toward a lowering of the rate of interest by means of credit expansion" (p. 552).
+The boom is therefore not a sign of new productive capacity. It is the bidding-up of capital goods, wage rates, and consumer-goods prices that the misread interest rate triggers — *"the additional demand on the part of the expanding entrepreneurs tends to raise the prices of producers' goods and wage rates. With the rise in wage rates the prices of consumers' goods rise too."* The same paragraph names the political-economy point this wiki uses: the boom does not register as policy error at the time, because illusory accounting profits make participants ready to consume more and the upswing spreads optimism. The corrective phase is the moment when the falsified calculation is found out.
 
 ## See Also
 
-- [[austrian-business-cycle-theory|Austrian Business Cycle Theory]] — the macroeconomic theory this passage anchors
-- [[rothbard-on-fed-induced-boom|Rothbard on Fed-Induced Booms]] — sister focused article applying the same mechanism to the U.S. Federal Reserve
-- [[credit-and-deferred-payment|Credit and Deferred Payment]] — the structural definition of credit on which "credit expansion" is built
-- [[economic-calculation-problem|Economic Calculation Problem]] — Mises's prior result on prices as the informational substrate of rational calculation
-- [[human-action|Human Action]] — primary source for this passage
-- [[ludwig-von-mises|Ludwig von Mises]] — author reference
+- [[austrian-business-cycle-theory|Austrian Business Cycle Theory]] - parent concept this passage establishes
+- [[rothbard-on-fed-induced-boom|Rothbard on Fed-Induced Booms]] - sister focused article on the Rothbardian cluster-of-errors mechanism applied to the Fed
+- [[credit-and-deferred-payment|Credit and Deferred Payment]] - Mises's underlying commodity-credit vs. circulation-credit distinction
+- [[economic-calculation-problem|Economic Calculation Problem]] - the calculation Mises says the rate falsifies
+- [[human-action|Human Action]] - source treatise for the passage
+- [[the-theory-of-money-and-credit|The Theory of Money and Credit]] - earlier 1912 statement of the same monetary side
+- [[ludwig-von-mises|Ludwig von Mises]] - author reference
 
 ## Sources
 
-- [Human Action (Full Text Aggregate)](https://cdn.mises.org/files/2024-09/Human%20Action.pdf) — Mises's Ch. XX statement of the gross-market-rate / originary-rate distinction, the falsification-of-calculation passage at p. 550, and the cycle's necessity at p. 552
+- [Human Action (Full Text Aggregate)](https://cdn.mises.org/files/2024-09/Human%20Action.pdf) - Ch. XX §6 "The Gross Market Rate of Interest as Affected by Inflation and Credit Expansion" — the falsified-calculation passage and the "nonetheless low" gross-rate clarification

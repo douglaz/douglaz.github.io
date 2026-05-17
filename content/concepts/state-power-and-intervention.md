@@ -83,6 +83,7 @@ Because the books go beyond diagnosis, the article connects directly to [[market
 - [[rothbard-on-war-and-the-state|Rothbard on War and the State]] - focused author-on-topic article on the defense-and-emergency slogans and the "war is the health of the State" passage
 - [[tilly-on-protection-rackets|Tilly on Protection Rackets]] - focused author-on-topic article on the 1985 racketeer formulation
 - [[hillebrand-on-cbdcs|Hillebrand on Central Bank Digital Currencies]] - focused author-on-topic article applying Rothbard's intervention typology to programmable central-bank money
+- [[hayek-on-rule-of-law|Hayek on the Rule of Law]] - focused author-on-topic article on the foreseeability constraint discretionary administration inverts
 - [[libertarianism|Libertarianism]] - broader doctrine organized around opposition to coercive political power
 - [[nonaggression-and-property-rights|Nonaggression and Property Rights]] - moral baseline used to judge intervention
 - [[austrian-economics|Austrian Economics]] - economic framework used to analyze intervention
