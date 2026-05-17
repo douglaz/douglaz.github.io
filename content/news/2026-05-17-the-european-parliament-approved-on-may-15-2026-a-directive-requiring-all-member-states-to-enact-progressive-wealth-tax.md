@@ -1,12 +1,12 @@
 ---
-title: "European Parliament Approves EU-Wide Progressive Wealth-Tax Directive (May 2026)"
-type: news
+title: "European Parliament approves directive mandating progressive wealth taxes across all member states by 2028"
 source: ""
+type: news
 ingested: 2026-05-17
 author: cli
 platform: cli
-tags: [european-union, wealth-tax, taxation, capital-flight, redistribution, inequality]
-summary: "The European Parliament approved on May 15, 2026 a directive requiring all member states to enact progressive wealth taxes of 1–3% on net assets above €1 million by 2028, with rates rising to 5% on holdings above €50 million; the rapporteur framed the measure as 'finally making wealth pay its fair share' and dismissed warnings of capital flight as 'right-wing fearmongering.'"
+tags: [european-union, wealth-tax, taxation, capital, inequality, european-parliament]
+summary: "The European Parliament approved on May 15, 2026 a directive requiring all member states to enact progressive wealth taxes of 1–3% on net assets above €1 million by 2028, rising to 5% above €50 million; the rapporteur framed the measure as 'finally makes wealth pay its fair share' and dismissed capital-flight critiques as 'right-wing fearmongering.'"
 ---
 
 The European Parliament approved on May 15, 2026 a directive requiring all member states to enact progressive wealth taxes of 1–3% on net assets above €1 million by 2028, with rates rising to 5% on holdings above €50 million. Rapporteur Marta Sánchez said the directive 'finally makes wealth pay its fair share' and described it as 'a historic correction of decades of inequality and the moral foundation of a just Europe.' Critics in the European People's Party warned of capital flight and constitutional challenges; the rapporteur dismissed those concerns as 'right-wing fearmongering driven by oligarch interests, not real economics.'

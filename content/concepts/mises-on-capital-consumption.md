@@ -1,33 +1,34 @@
 ---
 title: "Mises on Capital Consumption"
 volatility: warm
+category: concept
 type: concept
 created: 2026-05-17
 updated: 2026-05-17
-tags: [mises, capital-consumption, antiliberalism, redistribution, austrian-economics, liberalism]
-aliases: [Mises on antiliberal policy, capital consumption thesis, present at expense of the future]
-short: "Mises's claim in Liberalism that antiliberal policy — redistribution, confiscatory taxation, suppression of capital accumulation — is technically a policy of capital consumption: present abundance bought at the expense of future productive capacity."
+tags: [mises, capital-consumption, antiliberalism, liberalism, intervention, austrian-economics, time-preference]
+aliases: [Mises on antiliberal policy, Mises capital consumption, antiliberal policy as capital consumption]
+short: "Mises's compact formulation in Liberalism that 'antiliberal policy is a policy of capital consumption' — the present is provided for more abundantly at the cost of the inherited capital stock and the standard of living of the future."
+confidence: medium
 ---
 
 # Mises on Capital Consumption
 
 > "Antiliberal policy is a policy of capital consumption. It recommends that the present be more abundantly provided for at the expense of the future."
+> — [[liberalism|Mises, Liberalism]], Part I §5 ("Property and Ethics")
 
-Mises's passage in [[liberalism|Liberalism]] sets out the technical name for what redistribution-by-statute does to the productive base of a society. The argument is not moral first. It is a praxeological identification: any policy that raises present consumption by drawing on the existing stock of capital, instead of on current production, is consuming capital — running down the saved goods that future production depends on. *"A relatively grievous disadvantage in the future stands in opposition to a relatively abundant momentary gratification."* The political form Mises has in view is the broad class of antiliberal policies: confiscatory taxes on saved wealth, redistribution of accumulated capital, suppression of the institutional conditions for saving and investment. *"Even partially consumed capital must … simply be capital consumption and ultimately, as a further consequence of the latter, a still further reduction in"* productive capacity.
+Mises advances the formulation in [[liberalism|Liberalism]] not as a slogan but as a technical description of what redistribution-and-intervention programs *do* once the second-order effects are tracked. The frame is not the moral one his opponents are inviting — *"hard-heartedness versus philanthropy"* — but the temporal one Mises insists is doing the analytic work: the present *is* more abundantly provided for; the supply that pays for that abundance is the inherited capital stock and the production capacity it carries into the future. Mises's prior chapter has already supplied the link between private property in capital goods, savings, and rising productivity. The capital-consumption formulation is the corollary on the other side: policies that draw down the capital stock — by taxing it, by suppressing its returns, by socializing it, or by financing transfer payments from it — necessarily lower future output, whether or not the present-period beneficiaries recognize the trade.
 
-The frame travels with the consequentialist defense of exchange the wiki keeps distinct from the natural-rights line in [[nonaggression-and-property-rights|Nonaggression and Property Rights]]. It says what the policy does, not whether the resulting distribution is acceptable. Two features make Mises's formulation operative. First, the direction is one-way: capital consumed in the current period is not available for production in the next. Second, the political rhetoric around the policy — *"hard-heartedness versus philanthropy"* — does not change the underlying mechanism. *"To talk, in such a case, as if the question were one of hard-heartedness versus philanthropy is downright dishonest and untruthful."* The Misesian frame is descriptive about the conversion direction and indifferent to whether the present consumption is staged as private spending or as state programs financed from extracted capital.
+The link to [[hans-hermann-hoppe|Hoppe]]'s [[democracy-the-god-that-failed|Democracy: The God That Failed]] is direct: Hoppe's caretaker mechanism (temporary public managers cannot capitalize the future tax base into a sale price and so prefer present extraction) is one institutional pathway by which an electorate adopts policies that fit Mises's description. The link to [[rothbard-on-wealth-tax|Rothbard's wealth-tax analysis]] in [[power-and-market|Power and Market]] is also direct: a tax on accumulated wealth is the cleanest analytic case of the policy class Mises names — its incidence falls directly on the capital stock, and Rothbard's *"no quicker route could be found to promote capital consumption"* is, in this corpus, a praxeological gloss on Mises's antiliberal-policy formula. The same description bounds the [[liberalism|classical-liberal minarchist carve-out]] in Mises's own framework: a minimal-protective state is reserved as legitimate; a *capital-consumption* state is precisely what Mises's "Liberalism" is written against.
 
 ## See Also
 
-- [[economic-calculation-problem|Economic Calculation Problem]] - Misesian core that grounds the price-and-capital theory the capital-consumption argument sits on
-- [[state-power-and-intervention|State Power and Intervention]] - intervention-as-cumulative-process frame the capital-consumption mechanism instantiates
-- [[political-means-and-economic-means|Political Means and Economic Means]] - Oppenheimer distinction classifying confiscatory taxation as the political means substituted for the economic means
-- [[austrian-business-cycle-theory|Austrian Business Cycle Theory]] - sister Austrian frame on the conversion of saved capital under monetary intervention
-- [[rothbard-on-wealth-tax|Rothbard on the Wealth Tax]] - Rothbardian focused article on the same mechanism applied to the specific case of a tax on accumulated wealth
-- [[liberalism|Liberalism]] - reference page hosting the capital-consumption passage and the surrounding antiliberalism critique
-- [[socialism|Socialism]] - sister volume containing the broader "destructionism" diagnosis
-- [[ludwig-von-mises|Ludwig von Mises]] - author reference
+- [[rothbard-on-wealth-tax|Rothbard on the Wealth Tax]] — sister focused article on the wealth-tax sub-case as the cleanest analytic instance of capital-consumption policy
+- [[state-power-and-intervention|State Power and Intervention]] — broader concept on intervention; capital consumption is one downstream effect Mises tracks
+- [[economic-calculation-problem|Economic Calculation Problem]] — Mises's upstream 1922 result on the informational role of prices, which the capital-consumption claim presupposes
+- [[liberalism|Liberalism]] — primary source for the antiliberal-policy formulation
+- [[ludwig-von-mises|Ludwig von Mises]] — author reference
+- [[democracy-the-god-that-failed|Democracy: The God That Failed]] — Hoppe's caretaker mechanism as one institutional route to capital-consumption policy
 
 ## Sources
 
-- [Liberalism (Full Text Aggregate)](https://cdn.mises.org/Liberalism%20In%20the%20Classical%20Tradition_3.pdf) - Mises's "Antiliberal policy is a policy of capital consumption" passage and the surrounding antiliberalism critique
+- [Liberalism: In the Classical Tradition (Full Text Aggregate)](https://cdn.mises.org/Liberalism%20In%20the%20Classical%20Tradition_3.pdf) — Part I §5, the "antiliberal policy is a policy of capital consumption" formulation and the present-at-the-expense-of-the-future frame

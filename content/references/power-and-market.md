@@ -47,6 +47,8 @@ The raw source was assembled on 2026-05-16 from the Mises Institute online-book 
 - [[2026-05-16-fed-may-2026-rate-cut-abct|The May 2026 Fed Rate Cut: ABCT Analysis]] - thesis citing Rothbard's general intervention-as-cumulative-process treatment
 - [[2026-05-16-digital-euro-launch-cbdc-total-intervention|The Digital Euro Launch as CBDC Total Intervention: Analysis]] - thesis applying the autistic/binary/triangular intervention typology to programmable central-bank money
 - [[hillebrand-on-cbdcs|Hillebrand on Central Bank Digital Currencies]] - focused author-on-topic article that applies the tripartite intervention typology to CBDCs
+- [[rothbard-on-wealth-tax|Rothbard on the Wealth Tax]] - focused author-on-topic article on the ch. 4 §C "A Tax on Individual Wealth" treatment as a pure tax on accumulated capital
+- [[2026-05-17-eu-wealth-tax-directive-capital-consumption|The 2026 EU Wealth-Tax Directive: Capital-Consumption Analysis]] - thesis citing the ch. 4 §C "A Tax on Individual Wealth" section in critique of the May 2026 EU directive
 
 ## Sources
 

@@ -43,6 +43,8 @@ This book is the political-philosophy companion to [[socialism|Socialism]] (1922
 - [[mises-on-rent-ceilings|Mises on Rent Ceilings]] - focused author-on-topic article on the residential-rent-ceiling shortage passage from this book
 - [[2026-05-16-fed-may-2026-rate-cut-abct|The May 2026 Fed Rate Cut: ABCT Analysis]] - thesis noting Mises's minarchist position on central banking
 - [[2026-05-16-nato-defense-spending-floor-protection-racket|NATO's 2026 Defense-Spending Floor: Protection-Racket Analysis]] - thesis citing Mises's "peace, not war, is the father of all things" passage and bounding the minarchist defensive carve-out
+- [[mises-on-capital-consumption|Mises on Capital Consumption]] - focused author-on-topic article on the Part I §5 "antiliberal policy is a policy of capital consumption" passage
+- [[2026-05-17-eu-wealth-tax-directive-capital-consumption|The 2026 EU Wealth-Tax Directive: Capital-Consumption Analysis]] - thesis citing the antiliberal-policy-as-capital-consumption passage and noting that the minarchist carve-out does not cover the directive
 
 ## Sources
 
