@@ -45,6 +45,7 @@ This concept sits at the intersection of [[austrian-economics|Austrian Economics
 - [[hans-hermann-hoppe|Hans-Hermann Hoppe]] - author whose later tax-incidence discussion reinforces Rothbard here
 - [[murray-n-rothbard|Murray N. Rothbard]] - author reference for the current corpus
 - [[the-economics-and-ethics-of-private-property|The Economics and Ethics of Private Property]] - related work in this corpus
+- [[2026-05-18-eu-wealth-tax-directive-capital-consumption|The 2026 EU Wealth-Tax Directive: Capital-Consumption Analysis]] - thesis applying the general no-forward-shifting claim to the May 2026 EU wealth-tax directive
 
 ## Sources
 

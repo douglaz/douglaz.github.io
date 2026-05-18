@@ -2,15 +2,15 @@
 
 > Topic wiki for libertarian political philosophy, history, arguments, critics, and policy debates.
 
-Last updated: 2026-05-17
+Last updated: 2026-05-18
 
 ## Statistics
 
-- Sources: 69 raw documents
-- Articles: 105 compiled wiki articles
+- Sources: 70 raw documents
+- Articles: 108 compiled wiki articles
 - Outputs: 1 generated artifacts
-- Last compiled: 2026-05-17
-- Last lint: 2026-05-17
+- Last compiled: 2026-05-18
+- Last lint: 2026-05-18
 
 ## Quick Navigation
 
@@ -24,6 +24,8 @@ Last updated: 2026-05-17
 
 ## Recent Changes
 
+- 2026-05-18: news-lens — re-filed EU wealth-tax directive news post under the 2026-05-18 slug; wrote new critique-stance thesis `2026-05-18-eu-wealth-tax-directive-capital-consumption` (the pre-existing `2026-05-17-…` index reference had no on-disk file) plus focused `rothbard-on-wealth-tax` and `mises-on-capital-consumption` concept articles as X-thread citation targets; updated five stale See-Also references in `state-power-and-intervention`, `political-means-and-economic-means`, `references/power-and-market`, `references/liberalism`, `references/democracy-the-god-that-failed`, and `theses/state-as-parasite-thesis` from the 2026-05-17 slug to the 2026-05-18 slug.
+- 2026-05-18: news-lens — re-filed fourth Argentina rent-decontrol news post under the 2026-05-18 slug; reused the existing `argentina-rent-decontrol-2023` thesis (rewrote thesis body and focused `mises-on-rent-ceilings` and `rothbard-on-price-controls` concept articles, which were stale-indexed but missing on disk in the trial wiki) as X-thread citation targets.
 - 2026-05-17: news-lens — re-filed third Argentina rent-decontrol news post under the 2026-05-17 slug; reused the existing `argentina-rent-decontrol-2023` thesis (rewrote thesis body, which was stale-indexed but missing on disk in the trial wiki), pointing at the existing focused `mises-on-rent-ceilings` and `rothbard-on-price-controls` concept articles as X-thread citation targets.
 - 2026-05-17: news-lens — re-filed May 2026 Fed rate-cut news post under the 2026-05-17 slug; wrote new endorse-stance thesis `2026-05-17-fed-may-2026-rate-cut-abct` (the pre-existing `2026-05-16-…` index reference had no on-disk file); wrote focused `mises-on-credit-expansion` and `rothbard-on-fed-induced-boom` concept articles as X-thread citation targets; updated the ABCT concept See Also pointer.
 - 2026-05-17: news-lens — filed EU wealth-tax directive news post and wrote critique-stance thesis `2026-05-17-eu-wealth-tax-directive-capital-consumption`; added focused `rothbard-on-wealth-tax` and `mises-on-capital-consumption` concept articles as X-thread citation targets; added reciprocal See Also backlinks on the cited concept and sister focused articles.

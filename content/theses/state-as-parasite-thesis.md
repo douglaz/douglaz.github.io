@@ -131,7 +131,7 @@ The version of the user's two sentences that survives the corpus reads:
 - [[the-human-condition|The Human Condition]] - reciprocal link.
 - [[violence-vs-power|Violence vs Power]] - reciprocal link.
 - [[2026-05-16-nato-defense-spending-floor-protection-racket|NATO's 2026 Defense-Spending Floor: Protection-Racket Analysis]] - news-lens thesis instantiating the parasite/protection-racket framing in NATO's May 2026 spending-floor decision.
-- [[2026-05-17-eu-wealth-tax-directive-capital-consumption|The 2026 EU Wealth-Tax Directive: Capital-Consumption Analysis]] - news-lens thesis instantiating the political-means framing in the May 2026 EU wealth-tax directive, via Rothbard's uncapitalizable/unshiftable derivation and Mises's antiliberalism-as-capital-consumption naming.
+- [[2026-05-18-eu-wealth-tax-directive-capital-consumption|The 2026 EU Wealth-Tax Directive: Capital-Consumption Analysis]] - news-lens thesis instantiating the political-means framing in the May 2026 EU wealth-tax directive, via Rothbard's uncapitalizable/unshiftable derivation and Mises's antiliberalism-as-capital-consumption naming.
 
 ## Sources
 
