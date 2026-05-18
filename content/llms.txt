@@ -17,6 +17,7 @@
 - [Friend/Enemy Distinction](/concepts/friend-enemy-distinction) — Schmitt's criterion of the political: the public distinction between friend and enemy as the highest-intensity form of association and dissociation.
 - [Hayek on the Rule of Law](/concepts/hayek-on-rule-of-law)
 - [Hillebrand on Central Bank Digital Currencies](/concepts/hillebrand-on-cbdcs)
+- [Hoppe on Caretaker Capital Consumption](/concepts/hoppe-on-caretaker-capital-consumption)
 - [Knowledge Problem](/concepts/knowledge-problem) — Hayek's argument that economic knowledge exists only as dispersed, tacit, time-and-place-specific knowledge, now cross-linked to Arendt's separate critique of total ideology and reality-denying political deduction.
 - [Late-Twentieth-Century State Forms](/concepts/late-twentieth-century-state-forms) — Tilly's Chapter 7 extension from European state formation to late-twentieth-century military rule, postcolonial states, soldiers in power, and the limits of exporting Europe's path.
 - [Market Anarchism and Private Law](/concepts/market-anarchism-and-private-law) — Concept article on non-state courts, protection, insurance, and title systems in the current libertarian book set.

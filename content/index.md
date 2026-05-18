@@ -6,7 +6,7 @@ Last updated: 2026-05-18
 
 ## Statistics
 
-- Sources: 70 raw documents
+- Sources: 74 raw documents
 - Articles: 108 compiled wiki articles
 - Outputs: 1 generated artifacts
 - Last compiled: 2026-05-18
@@ -24,6 +24,8 @@ Last updated: 2026-05-18
 
 ## Recent Changes
 
+- 2026-05-18: ingest — two NATO primary-source documents → `raw/articles/`. The 1949 *North Atlantic Treaty* (Washington, 4 April 1949) supplies Article 3 ("continuous and effective self-help and mutual aid") as the treaty-level spending hook, plus Article 5 collective defense; the 2014 *Wales Summit Declaration* (5 September 2014) supplies paragraph 14, the Defence Investment Pledge, which is the textual origin of the 2% of GDP guideline ("aim to move towards the 2% guideline within a decade") and the 20% major-equipment guideline. Closes the news-lens-flagged gap on post-1949 Atlantic-alliance treaty mechanics — the historical sequence from Article 3 to Wales ¶14 to the May 2026 raise.
+- 2026-05-18: ingest — OECD (2018), *The Role and Design of Net Wealth Taxes in the OECD*, Tax Policy Studies No. 26 → `raw/papers/`. Metadata stub plus partial full-text aggregate (Foreword, Executive Summary, Ch. 1 overview/repeal-sequence, Ch. 5 conclusions). Closes the news-lens-flagged gap on the post-1990 European net wealth tax repeal sequence: Austria 1994, Denmark 1997, Germany 1997, Netherlands 2001, Finland/Iceland/Luxembourg 2006, Sweden 2007, France's 1 January 2018 ISF→IFI conversion; 12 → 4 OECD countries levying individual net wealth taxes between 1990 and 2017.
 - 2026-05-18: news-lens — re-filed EU wealth-tax directive news post under the 2026-05-18 slug; wrote new critique-stance thesis `2026-05-18-eu-wealth-tax-directive-capital-consumption` (the pre-existing `2026-05-17-…` index reference had no on-disk file) plus focused `rothbard-on-wealth-tax` and `mises-on-capital-consumption` concept articles as X-thread citation targets; updated five stale See-Also references in `state-power-and-intervention`, `political-means-and-economic-means`, `references/power-and-market`, `references/liberalism`, `references/democracy-the-god-that-failed`, and `theses/state-as-parasite-thesis` from the 2026-05-17 slug to the 2026-05-18 slug.
 - 2026-05-18: news-lens — re-filed fourth Argentina rent-decontrol news post under the 2026-05-18 slug; reused the existing `argentina-rent-decontrol-2023` thesis (rewrote thesis body and focused `mises-on-rent-ceilings` and `rothbard-on-price-controls` concept articles, which were stale-indexed but missing on disk in the trial wiki) as X-thread citation targets.
 - 2026-05-17: news-lens — re-filed third Argentina rent-decontrol news post under the 2026-05-17 slug; reused the existing `argentina-rent-decontrol-2023` thesis (rewrote thesis body, which was stale-indexed but missing on disk in the trial wiki), pointing at the existing focused `mises-on-rent-ceilings` and `rothbard-on-price-controls` concept articles as X-thread citation targets.
