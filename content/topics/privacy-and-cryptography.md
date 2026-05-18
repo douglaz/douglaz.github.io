@@ -62,7 +62,7 @@ This topic should not become a grab bag of every cryptographic technology. The w
 - [[nonaggression-and-property-rights|Nonaggression and Property Rights]] - property framework used for privacy claims
 - [[austrian-economics|Austrian Economics]] - broader method and political-economy setting
 - [[hillebrand-on-cbdcs|Hillebrand on Central Bank Digital Currencies]] - focused author-on-topic article on CBDCs as autistic/binary/triangular total intervention
-- [[2026-05-16-digital-euro-launch-cbdc-total-intervention|The Digital Euro Launch as CBDC Total Intervention: Analysis]] - thesis instantiating this topic's CBDC frame in the ECB's confirmed digital-euro design
+- [[2026-05-18-digital-euro-launch-cbdc-total-intervention|The Digital Euro Launch as CBDC Total Intervention: Analysis]] - thesis instantiating this topic's CBDC frame in the ECB's confirmed digital-euro design
 
 ## Sources
 

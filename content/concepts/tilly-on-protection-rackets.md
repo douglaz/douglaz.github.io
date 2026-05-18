@@ -2,32 +2,40 @@
 title: "Tilly on Protection Rackets"
 volatility: warm
 category: concept
-created: 2026-05-17
-updated: 2026-05-17
-tags: [charles-tilly, protection-racket, war-and-state-formation, extraction, organized-crime, state, historical-sociology]
-aliases: [Tilly 1985, protection rackets with legitimacy, war making and state making]
-short: "Tilly's 1985 thesis that war making, state making, protection, and extraction belong on the same coercive continuum as organized crime — and that states are 'quintessential protection rackets with the advantage of legitimacy.'"
+created: 2026-05-16
+updated: 2026-05-18
+tags: [charles-tilly, protection-racket, war-and-state-formation, organized-crime, extraction, historical-sociology]
+aliases: [Tilly protection racket, war-making state-making protection extraction, Tilly 1985 on rackets]
+confidence: high
+short: "Tilly's 1985 claim that war making and state making are quintessential protection rackets with the advantage of legitimacy, and that governments that produce both the danger and the shield against it qualify as racketeers."
 ---
 
 # Tilly on Protection Rackets
 
 > "If protection rackets represent organised crime at its smoothest, then war making and state making — quintessential protection rackets with the advantage of legitimacy — qualify as our largest examples of organised crime."
 >
-> — Charles Tilly, [[war-making-and-state-making-as-organized-crime|War Making and State Making as Organized Crime]] (Cambridge UP, 1985), p. 169.
+> — Charles Tilly, [[war-making-and-state-making-as-organized-crime|War Making and State Making as Organized Crime]] (1985), pp. 169–170.
 
-Tilly's 1985 essay treats four state activities as interlocking and self-reinforcing: war making (eliminating rivals outside the territory), state making (eliminating rivals inside it), protection (eliminating enemies of clients), and extraction (acquiring the means to do the first three). The four are not separable policies but mutually constituting processes. War demands extraction; extraction builds fiscal and administrative apparatus; state making suppresses internal competitors who might offer rival protection; protection binds favored clienteles to the regime. There is no social-contract origin in this account — only "coercive and self-seeking entrepreneurs" whose machinery, persisting beyond any particular war, became the modern national state.
+## The Racketeer Definition
 
-The racketeer comparison is exact, not figurative: "Someone who produces both the danger and, at a price, the shield against it is a racketeer." Tilly applies the test directly: "To the extent that the threats against which a given government protects its citizens are imaginary or are consequences of its own activities, the government has organized a protection racket." Cited externally-driven threats and large defense outlays are the textbook racketeer pattern. The wiki uses Tilly descriptively — see [[war-and-state-formation|War and State Formation]] for his broader thesis and [[state-power-and-intervention|State Power and Intervention]] for how libertarian state critique converges on the same diagnosis from different premises.
+Tilly's argument in [[war-making-and-state-making-as-organized-crime|War Making and State Making as Organized Crime]] turns on a precise definition of the racketeer: "someone who creates a threat and then charges for its reduction." The framing flips the standard apologia in which states sell "protection from local and external violence" at a price that "barely cover[s] the costs." The empirical test is who controls the threat. Where "the threats against which a given government protects its citizens are imaginary or are consequences of its own activities, the government has organized a protection racket."
+
+The 1985 essay specifies four interdependent activities that European states historically performed: war making (attacking rivals outside the territory), state making (attacking rivals inside it), protection (attacking enemies of one's clients), and extraction (drawing the means for the first three from the subject population). Tilly's claim is not that states "merely" engage in racketeering metaphorically; it is that the four-part model, plus the monopolization of violence, is descriptively how the European national state was assembled.
+
+## Relation to the Wiki
+
+The broader [[war-and-state-formation|War and State Formation]] article situates this within Tilly's capital/coercion typology from [[coercion-capital-and-european-states|Coercion, Capital, and European States]]. Tilly's protection-racket formulation converges with the Oppenheimer/Nock [[political-means-and-economic-means|political-means]] tradition on the mechanism of extraction; it diverges on normative evaluation. Tilly is a non-libertarian historical sociologist; [[charles-tilly|Tilly]] treats the national state as a contingent survivor of European competition, not as an institution to be abolished.
 
 ## See Also
 
-- [[war-making-and-state-making-as-organized-crime|War Making and State Making as Organized Crime]] — primary source for the formulation
-- [[war-and-state-formation|War and State Formation]] — broader concept this passage instantiates
-- [[coercion-capital-and-european-states|Coercion, Capital, and European States]] — Tilly's later book extending the four-part model into a thousand-year European typology
+- [[war-making-and-state-making-as-organized-crime|War Making and State Making as Organized Crime]] — primary source
 - [[charles-tilly|Charles Tilly]] — author reference
-- [[state-power-and-intervention|State Power and Intervention]] — libertarian state-critique frame Tilly's diagnosis sharpens descriptively
-- [[political-means-and-economic-means|Political Means and Economic Means]] — Oppenheimer distinction the protection-racket model empirically illuminates
+- [[war-and-state-formation|War and State Formation]] — broader concept article on Tilly's overall framework
+- [[coercion-capital-and-european-states|Coercion, Capital, and European States]] — companion book with the capital/coercion typology
+- [[political-means-and-economic-means|Political Means and Economic Means]] — Oppenheimer/Nock convergence point
+- [[rothbard-on-war-and-the-state|Rothbard on War and the State]] — sister focused article on the Rothbardian permanent-burden claim
+- [[state-power-and-intervention|State Power and Intervention]] — wiki synthesis page
 
 ## Sources
 
-- [War Making and State Making as Organized Crime](https://www.bmartin.cc/pubs/19sd/refs/Tilly1985.pdf) — Tilly's 1985 Cambridge UP chapter, pp. 169–191; opening sentence and racketeer-definition passages
+- [War Making and State Making as Organized Crime](https://www.bmartin.cc/pubs/19sd/refs/Tilly1985.pdf) — Tilly's 1985 essay; the verbatim "quintessential protection rackets" formulation and the racketeer-creates-the-threat definition

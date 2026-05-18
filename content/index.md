@@ -10,7 +10,7 @@ Last updated: 2026-05-18
 - Articles: 108 compiled wiki articles
 - Outputs: 1 generated artifacts
 - Last compiled: 2026-05-18
-- Last lint: 2026-05-18
+- Last lint: 2026-05-18 (post-NATO news-lens)
 
 ## Quick Navigation
 
@@ -24,6 +24,7 @@ Last updated: 2026-05-18
 
 ## Recent Changes
 
+- 2026-05-18: news-lens — re-filed NATO 3.5%-floor news post under the 2026-05-18 slug; wrote new endorse-stance thesis `2026-05-18-nato-defense-spending-floor-protection-racket` (prior `2026-05-16-…` and `2026-05-17-…` index references had no on-disk files) plus rewrote focused `tilly-on-protection-rackets` and `rothbard-on-war-and-the-state` concept articles as X-thread citation targets; updated five stale See-Also references from the 2026-05-16 slug to the new 2026-05-18 slug across `war-and-state-formation`, `state-power-and-intervention`, `political-means-and-economic-means`, `references/anatomy-of-the-state`, and `references/war-making-and-state-making-as-organized-crime`.
 - 2026-05-18: ingest — two NATO primary-source documents → `raw/articles/`. The 1949 *North Atlantic Treaty* (Washington, 4 April 1949) supplies Article 3 ("continuous and effective self-help and mutual aid") as the treaty-level spending hook, plus Article 5 collective defense; the 2014 *Wales Summit Declaration* (5 September 2014) supplies paragraph 14, the Defence Investment Pledge, which is the textual origin of the 2% of GDP guideline ("aim to move towards the 2% guideline within a decade") and the 20% major-equipment guideline. Closes the news-lens-flagged gap on post-1949 Atlantic-alliance treaty mechanics — the historical sequence from Article 3 to Wales ¶14 to the May 2026 raise.
 - 2026-05-18: ingest — OECD (2018), *The Role and Design of Net Wealth Taxes in the OECD*, Tax Policy Studies No. 26 → `raw/papers/`. Metadata stub plus partial full-text aggregate (Foreword, Executive Summary, Ch. 1 overview/repeal-sequence, Ch. 5 conclusions). Closes the news-lens-flagged gap on the post-1990 European net wealth tax repeal sequence: Austria 1994, Denmark 1997, Germany 1997, Netherlands 2001, Finland/Iceland/Luxembourg 2006, Sweden 2007, France's 1 January 2018 ISF→IFI conversion; 12 → 4 OECD countries levying individual net wealth taxes between 1990 and 2017.
 - 2026-05-18: news-lens — re-filed EU wealth-tax directive news post under the 2026-05-18 slug; wrote new critique-stance thesis `2026-05-18-eu-wealth-tax-directive-capital-consumption` (the pre-existing `2026-05-17-…` index reference had no on-disk file) plus focused `rothbard-on-wealth-tax` and `mises-on-capital-consumption` concept articles as X-thread citation targets; updated five stale See-Also references in `state-power-and-intervention`, `political-means-and-economic-means`, `references/power-and-market`, `references/liberalism`, `references/democracy-the-god-that-failed`, and `theses/state-as-parasite-thesis` from the 2026-05-17 slug to the 2026-05-18 slug.

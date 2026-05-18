@@ -35,7 +35,6 @@ Hayek's foreseeability condition sits at the level of [[state-power-and-interven
 - [[state-power-and-intervention|State Power and Intervention]] - the broader anti-intervention frame in which this constraint sits
 - [[hillebrand-on-cbdcs|Hillebrand on Central Bank Digital Currencies]] - applied case where programmable money inverts the foreseeability condition
 - [[liberalism|Liberalism]] - Mises's parallel classical-liberal carve-out
-- [[2026-05-16-digital-euro-launch-cbdc-total-intervention|The Digital Euro Launch as CBDC Total Intervention: Analysis]] - thesis citing this passage on the ECB's confirmed digital-euro design
 
 ## Sources
 

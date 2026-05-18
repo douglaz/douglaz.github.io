@@ -2,32 +2,39 @@
 title: "Rothbard on War and the State"
 volatility: warm
 category: concept
-created: 2026-05-17
-updated: 2026-05-17
-tags: [rothbard, war, state, defense-emergency-slogan, permanent-state-burden, taxation, conscription]
-aliases: [war is the health of the State, defense and emergency, Rothbard on war]
-short: "Rothbard's claim in *Anatomy of the State* that war is the principal lever for permanent expansion of state power: defense-and-emergency slogans license tyranny that would be resisted in peacetime, and 'every modern war has brought to the warring peoples a permanent legacy of increased State burdens upon society.'"
+created: 2026-05-16
+updated: 2026-05-18
+tags: [rothbard, war, state, defense, conscription, militarism, anatomy-of-the-state]
+aliases: [war is the health of the state, war and state power, permanent legacy of war]
+confidence: high
+short: "Rothbard's claim in *Anatomy of the State* that war pushes state power to its ultimate, and that every modern war leaves a permanent legacy of increased state burdens on society."
 ---
 
 # Rothbard on War and the State
 
 > "In war, State power is pushed to its ultimate, and, under the slogans of 'defense' and 'emergency,' it can impose a tyranny upon the public such as might be openly resisted in time of peace. War thus provides many benefits to a State, and indeed every modern war has brought to the warring peoples a permanent legacy of increased State burdens upon society."
 >
-> — Murray Rothbard, [[anatomy-of-the-state|Anatomy of the State]].
+> — Murray N. Rothbard, [[anatomy-of-the-state|Anatomy of the State]] (1974), "How States Preserve Themselves."
 
-Rothbard's compact passage names two mechanisms libertarians read in any defense-spending escalation. First, the *slogan* mechanism: "defense" and "emergency" are rhetorical structures that license measures — extraction, conscription, surveillance, regulation — which the population would refuse if proposed on their own merits. The slogans do not describe; they pre-empt argument. Second, the *ratchet* mechanism: the burdens added under emergency are not retracted when the emergency ends. They become permanent fixtures of the state apparatus. Each war therefore raises the floor of state extraction, and the new floor becomes the next baseline. Rothbard quotes Randolph Bourne's "war is the health of the State" — a formulation he qualifies (a particular war may injure a particular state) but endorses as a structural diagnosis.
+## The Permanent-Burden Claim
 
-The passage belongs in this wiki as the libertarian counterpart to [[tilly-on-protection-rackets|Tilly's protection-racket model]]. Tilly arrives at the same machinery from the outside as a historical sociologist; Rothbard names it from the inside as the political mechanism. Both converge on the prediction that defense-justified extraction increases will outlast their stated emergencies and become structural features of the state. See [[state-power-and-intervention|State Power and Intervention]] and [[evolution-of-the-state|Evolution of the State]] for the wider context.
+Rothbard's case in [[anatomy-of-the-state|Anatomy of the State]] is not the slogan that "war is the health of the State" — that is Randolph Bourne, whom Rothbard quotes — but the more specific historical claim: every modern war "has brought to the warring peoples a permanent legacy of increased State burdens upon society." The mechanism has two components. First, the slogans of "defense" and "emergency" suspend the resistance that comparable peacetime expansions would face. Second, the institutions built to wage the war — taxes, debt, conscription apparatus, surveillance, regulatory bodies, military-industrial procurement chains — survive the war that justified them. The bar for accepting state extension is lowered, the apparatus persists, and the new floor becomes the next baseline.
+
+The same chapter explains the demand side. Rothbard notes that the state has been "successful in recent centuries in instilling fear of other State rulers," so that "a war between rulers was converted into a war between peoples, with each people coming to the defense of its rulers in the erroneous belief that the rulers were defending them." The supply of "credible threats" required to justify the permanent-burden ratchet is endogenous: the state-system manufactures the demand for its own services.
+
+## Relation to the Wiki
+
+The claim sits inside the broader [[state-power-and-intervention|State Power and Intervention]] synthesis and pairs directly with [[tilly-on-protection-rackets|Tilly on Protection Rackets]]: Tilly supplies the racketeer-creates-the-threat definition; Rothbard supplies the ratchet that makes each emergency cycle leave the state larger than before. The [[political-means-and-economic-means|political-means]] tradition supplies the categorical reading of the resulting tax-and-conscription apparatus.
 
 ## See Also
 
-- [[anatomy-of-the-state|Anatomy of the State]] — primary source for the defense-emergency-slogan and permanent-burden passage
+- [[anatomy-of-the-state|Anatomy of the State]] — primary source
 - [[murray-n-rothbard|Murray N. Rothbard]] — author reference
-- [[tilly-on-protection-rackets|Tilly on Protection Rackets]] — sister focused article: non-libertarian historical-sociology convergence
-- [[state-power-and-intervention|State Power and Intervention]] — broader anti-state critique this passage strengthens
-- [[evolution-of-the-state|Evolution of the State]] — historical-evolution layer on how wars expand state structure
-- [[political-means-and-economic-means|Political Means and Economic Means]] — Oppenheimer distinction: defense extraction is political-means appropriation
+- [[tilly-on-protection-rackets|Tilly on Protection Rackets]] — sister focused article on the historical-sociology side
+- [[war-and-state-formation|War and State Formation]] — broader Tilly-anchored concept article
+- [[political-means-and-economic-means|Political Means and Economic Means]] — Oppenheimer/Nock tradition Rothbard makes canonical
+- [[state-power-and-intervention|State Power and Intervention]] — wiki synthesis page
 
 ## Sources
 
-- [Anatomy of the State (Full Text Aggregate)](https://mises.org/online-book/anatomy-state) — section on what the State fears; the defense-and-emergency-slogan and permanent-state-burden passage citing Randolph Bourne
+- [Anatomy of the State (Full Text)](https://mises.org/online-book/anatomy-state) — Rothbard's "How States Preserve Themselves" chapter; verbatim source for the war/defense/emergency slogan analysis and the permanent-burden formulation
