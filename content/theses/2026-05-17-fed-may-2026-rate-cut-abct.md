@@ -61,7 +61,7 @@ The narrower claim is categorical: conditional on the post's facts, the directio
 
 ## Sources
 
-- [May 2026 Fed 25bp Rate Cut and Housing Response](/news/2026-05-17-fed-25bp-rate-cut-housing-response) — news item being analyzed
+- [May 2026 Fed 25bp Rate Cut and Housing Response](/news/2026-05-20-fed-25bp-rate-cut-housing-response) — news item being analyzed
 - [Human Action: A Treatise on Economics (Full Text Aggregate)](https://cdn.mises.org/files/2024-09/Human%20Action.pdf) — Mises on credit expansion and the gross market rate
 - [The Theory of Money and Credit (Full Text Aggregate)](https://cdn.mises.org/files/2026-04/The-Theory-of-Money-and-Credit_5.pdf) — Mises's monetary-credit foundation
 - [Prices and Production and Other Works (Full Text Aggregate)](https://cdn.mises.org/prices_and_production_and_other_works.pdf) — Hayek's capital-structure treatment
