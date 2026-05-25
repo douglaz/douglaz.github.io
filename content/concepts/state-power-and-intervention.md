@@ -148,6 +148,8 @@ Because the books go beyond diagnosis, the article connects directly to [[market
 - [[the-rise-of-the-social|The Rise of the Social]] - reciprocal link.
 - [[violence-vs-power|Violence vs Power]] - reciprocal link.
 
+
+- [[2026-05-24-imf-sdr-climate-conditionality|The 2026 IMF SDR Climate Allocation: Analysis]] - newsroom thesis backlink
 ## Sources
 
 - [Anatomy of the State (Full Text Aggregate)](https://mises.org/online-book/anatomy-state) - concise anti-state statement

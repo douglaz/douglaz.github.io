@@ -69,6 +69,8 @@ The overlap should not erase the differences. Oppenheimer writes as a German soc
 - [[2026-05-18-nato-defense-spending-floor-protection-racket|NATO's 2026 Defense-Spending Floor: Protection-Racket Analysis]] - thesis classifying a treaty-bound alliance-wide defense-spending floor as use of the political means at supra-state scale.
 - [[2026-05-18-eu-wealth-tax-directive-capital-consumption|The 2026 EU Wealth-Tax Directive: Capital-Consumption Analysis]] - thesis classifying the May 2026 EU mandatory wealth-tax directive as use of the political means at supra-state scale, substituted for the economic means of voluntary production and exchange.
 
+
+- [[2026-05-24-imf-sdr-climate-conditionality|The 2026 IMF SDR Climate Allocation: Analysis]] - newsroom thesis backlink
 ## Sources
 
 - [The State: Its History and Development Viewed Sociologically](https://www.gutenberg.org/ebooks/51544) - original political/economic means distinction and state definition

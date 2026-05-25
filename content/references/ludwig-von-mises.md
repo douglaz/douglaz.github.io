@@ -69,6 +69,8 @@ Start with [[liberalism|Liberalism]] for the political program. Move to [[social
 - [[argentina-rent-decontrol-2023|Argentina's 2023 Rent Decontrol: An Analysis]] - thesis citing Mises's [[liberalism|Liberalism]] rent-ceiling and Vienna passages
 - [[2026-05-16-fed-may-2026-rate-cut-abct|The May 2026 Fed Rate Cut: ABCT Analysis]] - thesis citing Mises's [[human-action|Human Action]] Ch. XX on the gross-market-rate distortion
 
+
+- [[2026-05-24-imf-sdr-climate-conditionality|The 2026 IMF SDR Climate Allocation: Analysis]] - newsroom thesis backlink
 ## Sources
 
 - [Human Action (Full Text Aggregate)](https://cdn.mises.org/files/2024-09/Human%20Action.pdf) - the central treatise

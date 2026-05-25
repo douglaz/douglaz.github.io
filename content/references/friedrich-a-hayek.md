@@ -65,6 +65,8 @@ Start with [[road-to-serfdom|The Road to Serfdom]] for the political argument in
 - [[2026-05-16-fed-may-2026-rate-cut-abct|The May 2026 Fed Rate Cut: ABCT Analysis]] - thesis applying Hayek's capital-structure and knowledge-problem extensions to a Fed rate cut
 - [[hayek-on-rule-of-law|Hayek on the Rule of Law]] - focused author-on-topic article drawn from the "Planning vs. the Rule of Law" chapter of [[road-to-serfdom|The Road to Serfdom]]
 
+
+- [[2026-05-24-imf-sdr-climate-conditionality|The 2026 IMF SDR Climate Allocation: Analysis]] - newsroom thesis backlink
 ## Sources
 
 - [The Road to Serfdom (Full Text Aggregate)](https://cdn.mises.org/Road%20to%20serfdom.pdf) - political application of the critique of planning

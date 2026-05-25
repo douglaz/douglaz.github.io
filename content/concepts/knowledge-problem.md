@@ -44,6 +44,8 @@ This is the wiki's principal Hayekian contribution. Without it, the wiki's case 
 - [[socialism|Socialism]] - related work in this corpus
 - [[hayek-on-rule-of-law|Hayek on the Rule of Law]] - sibling Hayek focused article on the political-philosophical companion to the epistemic argument
 
+
+- [[2026-05-24-imf-sdr-climate-conditionality|The 2026 IMF SDR Climate Allocation: Analysis]] - newsroom thesis backlink
 ## Sources
 
 - [Individualism and Economic Order (Full Text Aggregate)](https://cdn.mises.org/Individualism%20and%20Economic%20Order_4.pdf) - canonical source for "The Use of Knowledge in Society" and "Economics and Knowledge"

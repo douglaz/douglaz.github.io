@@ -48,6 +48,8 @@ The calculation problem is the analytical foundation under [[state-power-and-int
 - [[praxeology|Praxeology]] - related concept
 - [[road-to-serfdom|The Road to Serfdom]] - related work in this corpus
 
+
+- [[2026-05-24-imf-sdr-climate-conditionality|The 2026 IMF SDR Climate Allocation: Analysis]] - newsroom thesis backlink
 ## Sources
 
 - [Socialism (Full Text Aggregate)](https://cdn.mises.org/Socialism%20An%20Economic%20and%20Sociological%20Analysis_3.pdf) - canonical 1922 statement

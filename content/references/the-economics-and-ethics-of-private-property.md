@@ -48,6 +48,8 @@ The underlying raw passage is here:
 - [[credit-and-deferred-payment|Credit and Deferred Payment]] - draws on Hoppe's parallel formulation of the present-good/future-good account of credit and the commodity-vs-circulation-credit distinction (and quotes Mises 1912 *TMC* via Hoppe)
 - [[the-theory-of-money-and-credit|The Theory of Money and Credit]] - Mises's 1912 treatise that EEPP quotes directly (TMC p. 268) when defending the present-good/future-good distinction against critics who would blur it
 
+
+- [[2026-05-24-imf-sdr-climate-conditionality|The 2026 IMF SDR Climate Allocation: Analysis]] - newsroom thesis backlink
 ## Sources
 
 - [The Economics and Ethics of Private Property (Full Text Aggregate)](https://cdn.mises.org/Economics%20and%20Ethics%20of%20Private%20Property%20Studies%20in%20Political%20Economy%20and%20Philosophy_3.epub) - full aggregated source from the Mises EPUB edition

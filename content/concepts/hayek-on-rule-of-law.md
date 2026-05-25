@@ -36,6 +36,8 @@ Hayek's foreseeability condition sits at the level of [[state-power-and-interven
 - [[hillebrand-on-cbdcs|Hillebrand on Central Bank Digital Currencies]] - applied case where programmable money inverts the foreseeability condition
 - [[liberalism|Liberalism]] - Mises's parallel classical-liberal carve-out
 
+
+- [[2026-05-24-imf-sdr-climate-conditionality|The 2026 IMF SDR Climate Allocation: Analysis]] - newsroom thesis backlink
 ## Sources
 
 - [The Road to Serfdom (Full Text Aggregate)](https://cdn.mises.org/Road%20to%20serfdom.pdf) - "Planning vs. the Rule of Law" chapter — the foreseeability definition, the contrast with discretionary planning, and the legalization-of-arbitrariness corollary
